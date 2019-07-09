@@ -2,7 +2,10 @@ package sortAlgorithms;
 
 import java.security.SecureRandom;
 import java.util.Random;
-
+/**
+ * @author vike0906
+ * @date 2019-07-09
+ */
 public class RandomAlphabet {
 	
 	/**生成随机排序的26个英文字母*/
